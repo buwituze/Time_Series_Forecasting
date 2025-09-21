@@ -1,10 +1,8 @@
-# Time_Series_Forecasting
+# Time_Series_Forecasting : Air Quality Forecasting Project
 
-This repo is for a Time Series Forecasting project, the goal of the project is to predict PM2.5 levels in Beijing using time series forecasting with LSTM.
+Air Pollution is a serious health issue, If we can forecast pollution levels in adavance, it can help with planning and public safety, thus, this project.
 
-## Project: Air Quality Forecasting 
-
-Air Pollution is a serious health issue, If we can forecast pollution levels in adavance, it can help with planning and public safety. Thus, I trained different models on historical air quality and weather data to predict future PM2.5.
+This repo is for a Time Series Forecasting project, the goal of the project is to predict PM2.5 levels in Beijing using time series forecasting with LSTM. I trained different models on historical air quality and weather data to predict future PM2.5.
 
 ## Data:
 
@@ -19,6 +17,18 @@ Air Pollution is a serious health issue, If we can forecast pollution levels in 
  - Open `air_quality_forecasting_starter_code_Benitha Uwituze Rutagengwa.ipynb`
  - Click **Open in Colab**, this will open the notebook in the Google Collab where you can run the cells in the notebook
  - In the Goggle Collab navbar click **Run all** and view results of each cell.
+
+### In local IDE:
+
+- Clone the (repo)[https://github.com/buwituze/Time_Series_Forecasting/new/main?readme=1.git]
+- Download datasets from: https://drive.google.com/drive/folders/1T3yHZreotr3QZ3sGLAo6pjd97uQ__aDV?usp=drive_link
+- Install packages in virtual env
+  - Create venv : `python3 -m venv venv`
+  - Run venv: `source venv/bin/activate` (Linux) or `venv\Scripts\activate`  (Window)
+  - Run the first cell in the notebook 
+- In the cloned repo, open the jyputer notebook `air_quality_forecasting_starter_code_Benitha Uwituze Rutagengwa.ipynb`
+-  Click **Run all** located at the top navbar of the notebook
+- View the outputs of each cell
 
 ## Results:
 
