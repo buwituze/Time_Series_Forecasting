@@ -1,6 +1,6 @@
 # Time_Series_Forecasting : Air Quality Forecasting Project
 
-Air Pollution is a serious health issue, If we can forecast pollution levels in adavance, it can help with planning and public safety, thus, this project.
+Air Pollution is a serious health issue, and if we can forecast pollution levels in adavance, it can help with planning and public safety. Thus, this project.
 
 This repo is for a Time Series Forecasting project, the goal of the project is to predict PM2.5 levels in Beijing using time series forecasting with LSTM. I trained different models on historical air quality and weather data to predict future PM2.5.
 
